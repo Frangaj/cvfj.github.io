@@ -78,7 +78,7 @@ HOla hola que tal todooooooooooooooooooooooooooo
 
 The contact us section tells us we need an @delivery.htb email address and tells us port 8065 is a MatterMost server. MatterMost is a Slack-like collaboration platform that can be self-hosted.
 
-![](/assets/images/htb-writeup-delivery/delivery_logo.png)
+![](assets/images/htb-writeup-delivery/gta.png)
 
 Browsing to port 8065 we get the MatterMost login page but we don't have credentials yet
 
