@@ -5,7 +5,7 @@ excerpt: "Hola este nuevo post hablaremos de diferentes cosas(OLE ESE PEDROOOO),
 date: 2023-07-02
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/
+  teaser: assets/images/htb-writeup-delivery/root.png
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
