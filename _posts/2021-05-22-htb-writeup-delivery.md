@@ -73,7 +73,7 @@ PORT     STATE SERVICE VERSION
 
 The Delivery website is pretty basic, there's a link to a vhost called helpdesk.delivery.htb and a contact us section. We'll add this entry to our local host before proceeding further.
 
-![](/assets/images/htb-writeup-delivery/website1.png)
+![](/assets/images/htb-writeup-delivery/gta2.png)
 
 The contact us section tells us we need an @delivery.htb email address and tells us port 8065 is a MatterMost server. MatterMost is a Slack-like collaboration platform that can be self-hosted.
 
