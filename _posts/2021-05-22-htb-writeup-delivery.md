@@ -5,7 +5,7 @@ excerpt: "Hola este nuevo post hablaremos de diferentes cosas(OLE ESE PEDROOOO),
 date: 2023-07-02
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/gta2.png
+  teaser: /assets/images/htb-writeup-delivery/
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
@@ -19,8 +19,8 @@ tags:
   - rules
 ---
 
-![](assets/images/htb-writeup-delivery/11.PNG)
-<img src=assets/images/htb-writeup-delivery/11.PNG>
+![](assets/images/htb-writeup-delivery/)
+
 
 hola pedroooo 
 Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de acción-aventura de mundo abierto en tercera persona desarrollado por el estudio escocés Rockstar North y distribuido por Rockstar Games. Fue lanzado el 17 de septiembre de 2013 para las consolas Xbox 360 y PlayStation 3.4​ Posteriormente, distribuido el 18 de noviembre de 2014 para las consolas de nueva generación Xbox One y PlayStation 4 y la vista en primera persona, luego para Microsoft Windows el 14 de abril de 2015 y finalmente se confirmó su lanzamiento para Xbox Series X/S y PlayStation 5 para marzo de 2022.5​6​ Entre las novedades se encuentra la mejora de gráficos (8k) incluido el soporte de 120 FPS. Se trató del primer gran título en la serie Grand Theft Auto desde el lanzamiento de Grand Theft Auto IV en 2008, el cual estrenó la «era HD» de la mencionada serie de videojuegos.
