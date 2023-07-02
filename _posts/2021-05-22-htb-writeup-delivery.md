@@ -19,7 +19,7 @@ tags:
   - rules
 ---
 
-![](assets/images/htb-writeup-delivery/root.png)
+![](assets/images/imagenesp/11.png)
 
 
 hola pedroooo 
