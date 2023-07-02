@@ -19,7 +19,7 @@ tags:
   - rules
 ---
 
-![](/assets/images/htb-writeup-delivery/delivery_logo.png)
+![](/assets/images/htb-writeup-delivery/11.png)
 
 hola pedroooo 
 Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de acción-aventura de mundo abierto en tercera persona desarrollado por el estudio escocés Rockstar North y distribuido por Rockstar Games. Fue lanzado el 17 de septiembre de 2013 para las consolas Xbox 360 y PlayStation 3.4​ Posteriormente, distribuido el 18 de noviembre de 2014 para las consolas de nueva generación Xbox One y PlayStation 4 y la vista en primera persona, luego para Microsoft Windows el 14 de abril de 2015 y finalmente se confirmó su lanzamiento para Xbox Series X/S y PlayStation 5 para marzo de 2022.5​6​ Entre las novedades se encuentra la mejora de gráficos (8k) incluido el soporte de 120 FPS. Se trató del primer gran título en la serie Grand Theft Auto desde el lanzamiento de Grand Theft Auto IV en 2008, el cual estrenó la «era HD» de la mencionada serie de videojuegos.
@@ -71,14 +71,14 @@ PORT     STATE SERVICE VERSION
 
 ## Website
 
-The Delivery website is pretty basic, there's a link to a vhost called helpdesk.delivery.htb and a contact us section. We'll add this entry to our local host before proceeding further.
+Me encanta que tengamos cosas que hacer
 HOla hola que tal todooooooooooooooooooooooooooo
 
 ![](/assets/images/htb-writeup-delivery/11.png)
 
 The contact us section tells us we need an @delivery.htb email address and tells us port 8065 is a MatterMost server. MatterMost is a Slack-like collaboration platform that can be self-hosted.
 
-![](/assets/images/htb-writeup-delivery/website2.png)
+![](/assets/images/htb-writeup-delivery/11.png)
 
 Browsing to port 8065 we get the MatterMost login page but we don't have credentials yet
 
