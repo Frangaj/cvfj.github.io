@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Hola esto es un nuevo inicio 
-excerpt: "Hola este nuevo post hablaremos de diferentes cosas, pero debemo de tener en cuenta que esto es muy lento el proceso,(OLE ESE PEDROOOO)"
+excerpt: "Hola este nuevo post hablaremos de diferentes cosas(OLE ESE PEDROOOO)"
 date: 2023-07-02
 classes: wide
 header:
@@ -21,7 +21,8 @@ tags:
 
 ![](/assets/images/htb-writeup-delivery/gta.png)
 
-hola pedroooo account and validate it by using automatic email accounts created by the OsTicket application. The admins on this platform have very poor security practices and put plaintext credentials in MatterMost. Once we get the initial shell with the creds from MatterMost we'll poke around MySQL and get a root password bcrypt hash. Using a hint left in the MatterMost channel about the password being a variation of PleaseSubscribe!, we'll use hashcat combined with rules to crack the password then get the root shell.
+hola pedroooo 
+Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de acción-aventura de mundo abierto en tercera persona desarrollado por el estudio escocés Rockstar North y distribuido por Rockstar Games. Fue lanzado el 17 de septiembre de 2013 para las consolas Xbox 360 y PlayStation 3.4​ Posteriormente, distribuido el 18 de noviembre de 2014 para las consolas de nueva generación Xbox One y PlayStation 4 y la vista en primera persona, luego para Microsoft Windows el 14 de abril de 2015 y finalmente se confirmó su lanzamiento para Xbox Series X/S y PlayStation 5 para marzo de 2022.5​6​ Entre las novedades se encuentra la mejora de gráficos (8k) incluido el soporte de 120 FPS. Se trató del primer gran título en la serie Grand Theft Auto desde el lanzamiento de Grand Theft Auto IV en 2008, el cual estrenó la «era HD» de la mencionada serie de videojuegos.
 
 ## Portscan
 
