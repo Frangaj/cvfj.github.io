@@ -19,7 +19,7 @@ tags:
   - rules
 ---
 
-![](/assets/images/Foto perfil 1.png)
+![](/assets/images/avatar.png)
 
 
 hola pedroooo 
