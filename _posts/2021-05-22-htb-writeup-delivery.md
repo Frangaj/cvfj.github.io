@@ -19,7 +19,7 @@ tags:
   - rules
 ---
 
-![](/assets/images/avatar.png)
+![](/assets/images/Prueba 1.png)
 
 
 hola pedroooo 
