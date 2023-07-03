@@ -31,7 +31,7 @@ Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de acción-av
 hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo hola pedroooo 
 Buena Opción
 
-![](/assets/images/htb-writeup-delivery/root.png)
+![](/assets/images/htb-writeup-delivery/gta2.png)
 
 ## VIDEO ENLACE 
 
